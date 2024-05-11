@@ -12,7 +12,7 @@ import time
 
 CONFIG = configparser.ConfigParser()
 BASE_LINK = "https://lustspielhaus.de/events/{}/{}/all/"
-CONFIG_FILE = "./config.ini"
+CONFIG_FILE = "./app/config.ini"
 YEAR_END = 2025
 MONTH_END = 4
 
