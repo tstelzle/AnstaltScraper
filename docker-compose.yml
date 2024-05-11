@@ -1,0 +1,7 @@
+version: "3.7"
+
+services:
+  scraper:
+    container_name: anstalt_scraper
+    build:
+      context: ./
